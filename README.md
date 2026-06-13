@@ -221,7 +221,7 @@ Possible improvements include:
 
 ## Author
 
-Syed Tahmidul Islam Tanmoy
+Syed Tahmidul Islam Tanmoy.
 BRAC University
 
 ## License
